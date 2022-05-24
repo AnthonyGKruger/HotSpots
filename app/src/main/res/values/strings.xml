@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HotSpots!</string>
+    <string name="location_name">nightclub/bar Name:</string>
+    <string name="location_address">nightclub/bar Address:</string>
+    <string name="location_name_here">location Name Here…</string>
+    <string name="location_address_here">location Address Here…</string>
+    <string name="save_details">Save Details</string>
+    <string name="rate_location">Rate Location</string>
+    <string name="beer_selection">Beer selection:</string>
+    <string name="save_rating">Save Rating</string>
+    <string name="wine_department">Wine selection:</string>
+    <string name="music_selection">Music:</string>
+    <string name="average_label">Average:</string>
+</resources>
